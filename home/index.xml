@@ -31,12 +31,12 @@
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>https://sudhir.github.io/home/publications_selected/</link>
+      <title>News</title>
+      <link>https://sudhir.github.io/home/news/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://sudhir.github.io/home/publications_selected/</guid>
-      <description></description>
+      <guid>https://sudhir.github.io/home/news/</guid>
+      <description> [5th October] Finalist of JTPF Novel Technology Paper Award at IROS 2018 [2nd October] Presented City-Scale Road Audit at IROS 2018 [] Organised Semantic Segmentation lab at Summer School 2018 [] Attended Machine Learning Summerschool 2017 [] Attended Computer Vision Summerschool 2017  </description>
     </item>
     
     <item>
@@ -54,6 +54,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://sudhir.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://sudhir.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://sudhir.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
