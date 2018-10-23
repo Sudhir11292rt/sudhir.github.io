@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep-learning on Sudhir</title>
+    <link>https://sudhir.github.io/tags/deep-learning/</link>
+    <description>Recent content in deep-learning on Sudhir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sudhir.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Autonomous Datasets</title>
+      <link>https://sudhir.github.io/project/datasets/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/project/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Creativity</title>
+      <link>https://sudhir.github.io/project/predictivecreativity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/project/predictivecreativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Creativity</title>
+      <link>https://sudhir.github.io/project/proj1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/project/proj1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road Audit</title>
+      <link>https://sudhir.github.io/project/road-audit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/project/road-audit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

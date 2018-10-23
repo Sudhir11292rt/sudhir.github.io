@@ -12,6 +12,46 @@
     
     <url>
     
+      <loc>https://sudhir.github.io/publication/network-ip/</loc>
+      <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sudhir.github.io/project/datasets/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sudhir.github.io/project/predictivecreativity/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sudhir.github.io/project/proj1/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sudhir.github.io/project/road-audit/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sudhir.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
@@ -53,6 +93,15 @@
     
     <url>
     
+      <loc>https://sudhir.github.io/project/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sudhir.github.io/publication_types/</loc>
       <lastmod>2018-05-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -72,6 +121,15 @@
     <url>
     
       <loc>https://sudhir.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sudhir.github.io/tags/deep-learning/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

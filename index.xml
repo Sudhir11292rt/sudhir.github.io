@@ -20,5 +20,51 @@
 </description>
     </item>
     
+    <item>
+      <title>Mapping mechanism to enhance QoS in IP networks</title>
+      <link>https://sudhir.github.io/publication/network-ip/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/publication/network-ip/</guid>
+      <description>&lt;p&gt;The purpose of this research is to explore the possibilities and mechanisms to be followed in order to extend the QoS in the backbone networks. This paper extends the ideas discussed in my previous paper: A Novel Architecture to Enhance Quality of Service in IP Networks [1] explaining the consequences of the proposal and building a model network. Simulated an SDN network using mininet and presented the packet captures depicting the extension of QoS outside the access networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Autonomous Datasets</title>
+      <link>https://sudhir.github.io/project/datasets/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/project/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Creativity</title>
+      <link>https://sudhir.github.io/project/predictivecreativity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/project/predictivecreativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Creativity</title>
+      <link>https://sudhir.github.io/project/proj1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/project/proj1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road Audit</title>
+      <link>https://sudhir.github.io/project/road-audit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudhir.github.io/project/road-audit/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
