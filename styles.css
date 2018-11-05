@@ -1670,3 +1670,33 @@ body.dark {
 .dark a.label:hover {
   color: rgba(255, 255, 255, .68);
 }
+
+h3.article-title {
+  font-size: 14pt;
+  padding-top: 10px
+}
+.pub-publication a {
+  color: #090
+}
+.pub-publication a, .pub-authors  a, .pub-list-item .pub-publication, .pub-list-item .pub-authors {
+  font-size: 12pt
+}
+.article-title {
+  margin-top: 0px
+}
+.home-section {
+  padding: 30px 0px;
+}
+.pub-publication {
+  font-style: italic
+}
+.pub-list-item {
+  border-bottom: lightgray  1px solid;
+  margin: 0px
+}
+section.home-section {
+  padding: 30px 0px;
+}
+.pub-list-item p {
+  margin-bottom: 10px
+}
